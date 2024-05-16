@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Livvic;
+    background: rgb(177, 7, 7);
+    color: white;
+    font-size: 18px;
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+    display: column;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.r1 {
+    align-items: center;
+    justify-content: center;
+    display: column;
+    text-align: center;
+}
+
+ul li {
+    margin-top: 50px;
+}
+.r1 ul li button {
+    color: white;
+    width: 133px;
+height: 38px;
+gap: 0px;
+opacity: 0px;
+background: rgb(177, 7, 7);
+border: 3px white solid;
+border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a img {
+    width: 30px;
+} 
+
+.a1 {
+    position: absolute;
+    right: 50px;
+    top: 30px;
+}
